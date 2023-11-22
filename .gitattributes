@@ -1,1 +1,4 @@
-* linguist-language=Tableau
+# .gitattributes
+
+# Tableau workbooks
+*.twbx binary
