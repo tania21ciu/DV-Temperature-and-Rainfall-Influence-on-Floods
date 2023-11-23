@@ -10,17 +10,16 @@ The impact of flooding which is quite extensive on the community makes flooding 
 ![Slide3](https://github.com/tania21ciu/DV-Temperature_and_Rainfall_Influence_on_Floods/assets/121918455/3b691b42-ba99-4172-9085-d6c126149939)
 
 ### Flood Frequency and Average Temperature
-
+![Slide4](https://github.com/tania21ciu/DV-Temperature_and_Rainfall_Influence_on_Floods/assets/121918455/3c020a7a-f04a-4701-b1cd-878d65052adb)
 
 ### Regional Clustering and Flood Duration in Indonesia
 ![Slide5](https://github.com/tania21ciu/DV-Temperature_and_Rainfall_Influence_on_Floods/assets/121918455/ca56b700-3221-431e-b7f6-facd39761dc2)
-
 
 ### Comparison of 5 Types of Trend Line between Average Temperature and Rainfall Levels
 ![Slide6](https://github.com/tania21ciu/DV-Temperature_and_Rainfall_Influence_on_Floods/assets/121918455/4cf7785a-1da1-4a2b-b4a7-3702ca274c34)
 
 ### Forecast of Average Temperature in Indonesia Each Month
-
+![Slide7](https://github.com/tania21ciu/DV-Temperature_and_Rainfall_Influence_on_Floods/assets/121918455/e1fbf934-8ee3-4a23-94f0-5ee631c0a971)
 
 ### Comparison of Forecasts of Average Temperature, Rainfall Levels, and Number of Floods in Indonesia Each Quarter
 ![Slide11](https://github.com/tania21ciu/DV-Temperature_and_Rainfall_Influence_on_Floods/assets/121918455/48277347-e53d-441b-a4bb-332c493beff4)
